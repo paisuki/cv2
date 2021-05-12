@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color: #edffec;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: Montserrat, sans-serif;
+  padding-top: 20px;
+  color: #325288;
+}
+
+img {
+  border-radius: 20px;
+  height: 35%;
+  width: 35%;
+}
+
+.email {
+  width: 250px;
+  height: 30px;
+}
+
+.email:hover {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #3d84b8;
+}
+
+button {
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-family: Montserrat, sans-serif;
+  color: #325288;
+  background-color: #fdffbc;
+  border-style: none;
+}
+
+button:hover {
+  background-color: #e4f5f9;
+}
